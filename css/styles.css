@@ -1,0 +1,19 @@
+body{
+    padding: 1em;
+}
+#col1{
+    display: inline-block;   
+}
+input{
+    display: block;
+    margin: 1em;
+}
+#col2{
+    display: inline-block;   
+}
+#bottom{
+    height: 6em;
+    width:20em;
+    border: solid black 1px;
+    padding: 1em;
+}
